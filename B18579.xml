@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Edward Strode Gent. in an action of the case, for scandalous words, and pretended false imprisonment, brought against him, Thomas Pemberton Gent. and Henry Manning defendants, by George Rodny plaintiff.</title>
+            <author>Strode, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18579</idno><idno type="EEBO-CITATION">99887513</idno>
+  <idno type="VID">190490</idno>
+  <idno type="EEBO-PROQUEST">2240896490</idno>
+  
+            <idno type="STC">Wing C909A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[28]</idno>
+            <idno type="STC">ESTC R227798</idno>
+            <idno type="PROQUEST">ocm99887513</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887513e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190490)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[91])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Edward Strode Gent. in an action of the case, for scandalous words, and pretended false imprisonment, brought against him, Thomas Pemberton Gent. and Henry Manning defendants, by George Rodny plaintiff.</title>
+                  <author>Strode, Edward.</author>
+                  <author>Rodny, George.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">False arrest --  England --  Early works to 1800.</term>
+               <term type="topical_term">Crime and criminals --  England --  Early works to 1800.</term>
+               <term type="topical_term">Fraud --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:190490:1"/>
+            <head>The CASE of <hi>EDWARD STRODE</hi> Gent. in an Action of the Case, for scandalous Words, and pretended false Imprisonment, brought against him, <hi>Thomas Pemberton</hi> Gent. and <hi>Henry Man<g ref="char:EOLhyphen"/>ning</hi> Defendants, by <hi>George Rodny</hi> Plaintiff.</head>
+            <p>ONE Mrs. <hi>Joyce Buckeridg</hi> having set up several forged Deeds to strip one <hi>Richard Anderson</hi> Esq; of his Inheritance; <label type="milestone">
+                  <seg type="milestoneunit">Case. </seg>
+               </label> and after several Trials at Bar, and a Decree in <hi>Chancery,</hi> the said Deeds being detected, and Mrs. <hi>Bucke<g ref="char:EOLhyphen"/>ridg</hi> convict for the forgery of one of them; pending these Suits, Mrs. <hi>Buckeridg</hi> sent down the Plaintiff, <hi>Rodny</hi> her Brother, to hold the posses<g ref="char:EOLhyphen"/>sion of the Rectory of <hi>Bury Pomeroy</hi> near <hi>Totness</hi> in the County of <hi>Devon',</hi> and to receive the Rents and Profits thereof; the Tythes of which Rectory, together with the mean Pro<g ref="char:EOLhyphen"/>fits, were adjudged to the said Mr. <hi>Anderson:</hi> who thereupon sent down several Writs against the said <hi>Rodney</hi> for the mean Profits and Rents received by him, but could not get him arrested thereon.</p>
+            <p>Whereupon, about the latter end of <hi>July</hi> 1685, Mr. <hi>Anderson</hi> desired the De<g ref="char:EOLhyphen"/>fendants, <hi>Strode</hi> and <hi>Pemberton,</hi> to go down thither, and to get the Plaintiff <hi>Rodney</hi> arrested, and to that purpose sent a Writ by <hi>Pemberton,</hi> (against Mr. <hi>Rodny,</hi> at the Suit of Mr. <hi>Curteis</hi> Trustee for Mr. <hi>Anderson</hi>) who took a VVarrant on the said VVrit, and repaired to <hi>Bury Pomeroy</hi> aforesaid, where the Plaintiff <hi>Rodny</hi> was taken by virtue thereof, by the Defendants: who fearing <hi>Rodny</hi> might be rescued, for preventing thereof, gave out to the Rabble, that they had taken him as a Rebel, for being one of those that were with the late Duke of <hi>Monmouth</hi> in the late Rebellion. But on the first Arrest,<note place="margin">See <hi>Rodny</hi>'s own Affidav', one sworn <hi>3</hi> months, the other <hi>6</hi> months after the Arrest. <hi>Rod<g ref="char:EOLhyphen"/>ny</hi> swears he was taken on the Writ, at the Suit of <hi>Cur<g ref="char:EOLhyphen"/>teis,</hi> and mentions not one word of be<g ref="char:EOLhyphen"/>ing scised as a Re<g ref="char:EOLhyphen"/>bel: and the Goa<g ref="char:EOLhyphen"/>ler <hi>Good</hi> swears, he received him a Prisoner at the Suit of <hi>Curteis</hi> only.</note> they acquainted Mr. <hi>Rodny</hi> himself, that they took him on the VVarrant at the Suit of <hi>Curteis,</hi> and so carried him to an Alehouse in the same Parish where he was taken; where Mr. <hi>Rodny</hi> sent for an Attorny, who read the VVarrant; and the Defendants offered to discharge him, if he would give but 200 <hi>l.</hi> Bail to the Action: which <hi>Rodny</hi> refused, and so was carried to Prison by virtue of the said VVar<g ref="char:EOLhyphen"/>rant, and for no other Cause whatsoever, and was in Prison charged with nothing else, as appears by two of Mr. <hi>Rodny</hi>'s own Affidavits, and by the Affidavits of Mr. <hi>Pem<g ref="char:EOLhyphen"/>berton</hi> and Mr. <hi>Good</hi> the Goaler.</p>
+            <p>Notwithstanding which Mr. <hi>Rodny</hi> brought this Action against the Defendants, for charging him to be a Rebel, and to have been with the late D. of <hi>Monmouth</hi> in the late Re<g ref="char:EOLhyphen"/>bellion. To which Action <hi>Strode</hi> and <hi>Pemberton</hi> jointly pleaded, Not Guilty: and <hi>Manning</hi> suffered Judgment by Default; and upon Trial, in <hi>March</hi> 1685, one and the same Ju<g ref="char:EOLhyphen"/>ry found the Defendants, <hi>Strode</hi> and <hi>Pemberton,</hi> both equally Guilty, <hi>de premissis,</hi> yet as<g ref="char:EOLhyphen"/>sess Damages against <hi>Strode</hi> to 1000 <hi>l.</hi> against <hi>Pemberton</hi> to 50 <hi>l.</hi>And on the Inquiry against <hi>Manning</hi> assess Damages against him to 50 <hi>l.</hi>The Plaintiff <hi>Rodny,</hi> before Judg<g ref="char:EOLhyphen"/>ment, entred two <hi>Noli prosequie's</hi> as to <hi>Pemberton</hi> and <hi>Manning,</hi> and took Judgment against <hi>Strode</hi> for the 1000 <hi>l.</hi> and 75 <hi>l.</hi>Costs. VVhich Judgment hath been affirmed in the Exchequer Chamber in <hi>Trinity</hi> Term last; and on the Defendant's paying Mr. <hi>Rodny</hi> 120 <hi>l.</hi>in last <hi>Michaelmass</hi> Term, for a <hi>Cessat Executio</hi> to save his Bail, till he could bring his VVrit of Error in Parliament: which VVrit he hath now brought, and it is now come here by VVrit of Error.</p>
+            <p>And the only Questions are, VVhether the Verdict was at first Vicious? and if it were, then whether a <hi>Noli prosequi,</hi> as to the Defendants <hi>Pemberton</hi> and <hi>Manning,</hi> will make the Verdict against <hi>Strode</hi> good?</p>
+            <p>The Plaintiff <hi>Rodny,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> on the Trial, never proved he was damnified one Peny. And if the Judgment be reversed upon this Writ of Error, the Plantiff <hi>Rodny</hi> hath another Action of the Case now depending against the Defendant <hi>Strode,</hi> for the very same words as were given in Evidence against <hi>Strode</hi> on the first Trial, and for which the Jury gave the Plaintiff <hi>Rodny</hi> 1000 <hi>l.</hi> Damages as aforesaid.</p>
+            <p>It is strange a Person should receive 1000 <hi>l.</hi> Damages for being charged to be a Re<g ref="char:EOLhyphen"/>bel, when he himself swears he was taken up and arrested at the Suit of <hi>Curteis,</hi> and not mentioning his being taken as a Rebel.</p>
+            <pb facs="tcp:190490:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
